@@ -9,7 +9,7 @@ export default function Portolio2() {
             {/* Page Heading/Breadcrumbs */}
             <h1 className="mt-4 mb-3">
               การจัดกิจกรรมเพื่อการพัฒนาองค์การภาครัฐ
-              <small>Subheading</small>
+              <small></small>
             </h1>
           </div>
         </div>
@@ -137,7 +137,13 @@ export default function Portolio2() {
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="#">การออกแบบงาน</a>
+                    <a
+                      href="assets/technostructure/technostructura-1-32.pdf"
+                      target="_blank"
+                      rel="nonpener noreferrer"
+                    >
+                      การออกแบบงาน
+                    </a>
                   </h4>
                   <p className="card-text">
                     การออกแบบงาน
@@ -159,7 +165,13 @@ export default function Portolio2() {
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="#">การ Coaching</a>
+                    <a
+                      href="assets/technostructure/technostructura-33-54.pdf"
+                      target="_blank"
+                      rel="nonpener noreferrer"
+                    >
+                      การ Coaching
+                    </a>
                   </h4>
                   <p className="card-text">
                     "การโค้ช (Coaching)"
@@ -180,7 +192,13 @@ export default function Portolio2() {
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="#">การสร้างทีม</a>
+                    <a
+                      href="assets/technostructure/technostructura-55-77.pdf"
+                      target="_blank"
+                      rel="nonpener noreferrer"
+                    >
+                      การสร้างทีม
+                    </a>
                   </h4>
                   <p className="card-text">
                     การสร้างทีม การสร้างทีมงาน หมายถึง
@@ -202,7 +220,13 @@ export default function Portolio2() {
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="#">การเปลี่ยนวัฒนธรรมองค์กร</a>
+                    <a
+                      href="assets/technostructure/technostructura-78-123.pdf"
+                      target="_blank"
+                      rel="nonpener noreferrer"
+                    >
+                      การเปลี่ยนวัฒนธรรมองค์กร
+                    </a>
                   </h4>
                   <p className="card-text">
                     การเปลี่ยนแปลงวัฒนธรรมองค์กรคือกระบวนการพัฒนาวัฒนธรรมองค์กรของคุณในรูปแบบที่แท้จริงซึ่งดึงดูดผู้คนและสร้างแรงบันดาลใจให้ทีมทำงานได้อย่างเต็มประสิทธิภาพ
